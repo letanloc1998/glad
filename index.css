@@ -4,10 +4,14 @@
     box-sizing: border-box;
 }
 
+/*Hide scrollbar*/
 body::-webkit-scrollbar {
     display: none;
-    /*scrollbar-width: none; //firefox*/
+    /*Firefox*/
+    /*scrollbar-width: none;*/
 }
+
+
 
 body {
     overflow: auto;
@@ -17,7 +21,7 @@ body {
 h1 {
     text-align: center !important;
     position: absolute !important;
-    overflow: hide !important;
+    overflow: hidden !important;
     width: 0px !important;
     height: 0px !important;
 }
