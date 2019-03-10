@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Trang chủ</title>
-    <link rel="shortcut icon" href="img/glad_logo.png">
+    <link rel="shortcut icon" href="img/Glad_circle_upcase.png">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="index.css">
     <script src="index.js"></script>
