@@ -9,7 +9,8 @@
     <script src="index.js"></script>
 </head>
 <body>
-    <h1>Trang chủ</h1>
     
+    <h1>Trang chủ</h1>
+
 </body>
 </html>
