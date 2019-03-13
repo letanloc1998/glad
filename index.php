@@ -22,6 +22,8 @@
         <script src="index.js"></script>
         -->
 
+        <!--Google adsense-->
+        <!--
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <script>
             (adsbygoogle = window.adsbygoogle || []).push({
@@ -29,7 +31,10 @@
                 enable_page_level_ads: true
             });
         </script>
+        -->
+
         <!-- Global site tag (gtag.js) - Google Analytics -->
+        <!--
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134530849-4"></script>
         <script>
             window.dataLayer = window.dataLayer || [];
@@ -41,6 +46,7 @@
 
             gtag('config', 'UA-134530849-4');
         </script>
+        -->
 
     </head>
 
