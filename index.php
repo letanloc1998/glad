@@ -48,6 +48,36 @@
         </script>
         -->
 
+        <style>
+            * {
+                padding: 0px !important;
+                margin: 0px !important;
+                box-sizing: border-box;
+            }
+
+            /*Hide scrollbar*/
+            body::-webkit-scrollbar {
+                display: none;
+                /*Firefox*/
+                /*scrollbar-width: none;*/
+            }
+
+
+
+            body {
+                overflow: auto;
+            }
+
+            /*Google search*/
+            h1 {
+                text-align: center !important;
+                position: absolute !important;
+                overflow: hidden !important;
+                width: 0px !important;
+                height: 0px !important;
+            }
+        </style>
+
     </head>
 
     <body>
