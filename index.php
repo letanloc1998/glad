@@ -22,6 +22,10 @@
         <script src="index.js"></script>
         -->
 
+        <meta name="description" content="Glad website">
+        <meta name="keywords" content="Windows,C,C++,Java,Android,HTML,CSS,XML,JavaScript,PHP,CTU,CIT,Kỹ thuật phần mềm">
+        <meta name="author" content="Lê Tấn Lộc">
+
         <meta name="twitter:url" content="https://glad.azurewebsites.net/">
         <meta property="og:url" content="https://glad.azurewebsites.net/">
         <meta name="twitter:title" content="Trang chủ">
@@ -30,6 +34,15 @@
         <meta property="og:description" content="Glad website">
         <meta name="twitter:card" content="summary">
         <meta property="og:type" content="website">
+        <meta name="description" content="Glad website">
+
+        <title id="pageTitle">Trang chủ</title>
+        <meta property="og:site_name" content="Glad website">
+        <meta property="og:url" content="https://glad.azurewebsites.net/">
+        <meta property="og:image" content="img/logo.png">
+        <!--
+        <meta property="og:locale" content="vi_VN">
+        -->
         <meta name="description" content="Glad website">
 
         <!--Google adsense-->
