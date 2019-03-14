@@ -22,6 +22,16 @@
         <script src="index.js"></script>
         -->
 
+        <meta name="twitter:url" content="https://glad.azurewebsites.net/">
+        <meta property="og:url" content="https://glad.azurewebsites.net/">
+        <meta name="twitter:title" content="Trang chủ">
+        <meta property="og:title" content="Trang chủ">
+        <meta name="twitter:description" content="Glad website">
+        <meta property="og:description" content="Glad website">
+        <meta name="twitter:card" content="summary">
+        <meta property="og:type" content="website">
+        <meta name="description" content="Glad website">
+
         <!--Google adsense-->
         <!--
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
