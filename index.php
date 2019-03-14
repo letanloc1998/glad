@@ -17,8 +17,8 @@
         <link rel="shortcut icon" href="img/logo.png">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <!--
         <link rel="stylesheet" type="text/css" media="screen" href="index.css">
+        <!--
         <script src="index.js"></script>
         -->
 
@@ -47,36 +47,6 @@
             gtag('config', 'UA-134530849-4');
         </script>
         -->
-
-        <style>
-            * {
-                padding: 0px !important;
-                margin: 0px !important;
-                box-sizing: border-box;
-            }
-
-            /*Hide scrollbar*/
-            body::-webkit-scrollbar {
-                display: none;
-                /*Firefox*/
-                /*scrollbar-width: none;*/
-            }
-
-
-
-            body {
-                overflow: auto;
-            }
-
-            /*Google search*/
-            h1 {
-                text-align: center !important;
-                position: absolute !important;
-                overflow: hidden !important;
-                width: 0px !important;
-                height: 0px !important;
-            }
-        </style>
 
     </head>
 
