@@ -88,7 +88,7 @@
     <body>
         <h1>Trang chủ</h1>
         <div>
-            <img src="img/background.png"/>
+            <img src="./img/background.png"/>
         </div>
     </body>
 
