@@ -22,7 +22,6 @@ h1 {
     height: 0px !important;
 }
 
-div img {
-    width: 100%;
-    height: auto;
+div {
+    background-image: url('background.png');
 }

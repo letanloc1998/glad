@@ -88,7 +88,6 @@
     <body>
         <h1>Trang chủ</h1>
         <div>
-            <img src="img/sun.jpg" />
         </div>
     </body>
 
