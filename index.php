@@ -78,7 +78,6 @@
     <body>
 
         <h1>Trang chủ</h1>
-        <img src=""/>
 
     </body>
 
