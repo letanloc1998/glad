@@ -11,7 +11,7 @@
     */
 ?>
 
-<!DOCTYPE <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
     <head>
@@ -37,7 +37,6 @@
         <meta property="og:description" content="Glad website">
         <meta name="twitter:card" content="summary">
         <meta property="og:type" content="website">
-        <meta name="description" content="Glad website">
 
         <title id="pageTitle">Trang chủ</title>
         <meta property="og:site_name" content="Glad website">
@@ -79,6 +78,7 @@
     <body>
 
         <h1>Trang chủ</h1>
+        <img src=""/>
 
     </body>
 
