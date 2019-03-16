@@ -21,16 +21,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="stylesheet" type="text/css" media="screen" href="index.css">
-<!--
+        <!--
         <link rel="stylesheet" media="mediatype and|not|only (expressions)" href="print.css">
 -->
-<!--
+        <!--
         all     Used for all media type devices
         print   Used for printers
         screen  Used for computer screens, tablets, smart-phones etc.
         speech  Used for screenreaders that "reads" the page out loud
 -->
-<!--
+        <!--
         <script src="index.js"></script>
 -->
 
@@ -86,9 +86,10 @@
     </head>
 
     <body>
-
         <h1>Trang chủ</h1>
-
+        <div>
+            <img src="img/sun.jpg" />
+        </div>
     </body>
 
 </html>
