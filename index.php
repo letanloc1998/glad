@@ -12,7 +12,7 @@
 ?>
 
 <!DOCTYPE html>
-<html>
+<html lang="vi" style="scroll-behavior: smooth;">
 
     <head>
         <meta charset="utf-8">
