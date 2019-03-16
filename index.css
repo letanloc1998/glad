@@ -7,11 +7,7 @@
 /*Hide scrollbar*/
 body::-webkit-scrollbar {
     display: none;
-    /*Firefox*/
-    /*scrollbar-width: none;*/
 }
-
-
 
 body {
     overflow: auto;
