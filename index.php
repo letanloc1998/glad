@@ -3,7 +3,7 @@
     header("Cache-Control: no-cache, must-revalidate"); //HTTP 1.1
     header("Pragma: no-cache"); //HTTP 1.0
     header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
-    header('Expires: '.gmdate('D, d M Y H:i:s \G\M\T', time() + (60 * 60)));
+    //header('Expires: '.gmdate('D, d M Y H:i:s \G\M\T', time() + (60 * 60)));
 
     //or, if you DO want a file to cache, use:
     //header("Cache-Control: max-age=2592000"); //30days (60sec * 60min * 24hours * 30days)
@@ -40,7 +40,7 @@
         <title id="pageTitle">Trang chủ</title>
         <meta property="og:site_name" content="Glad website">
         <meta property="og:url" content="https://glad.azurewebsites.net/">
-        <meta property="og:image" content="img/logo.png">
+        <meta property="og:image" content="img/logo.ico">
         <!--
         <meta property="og:locale" content="vi_VN">
         -->
