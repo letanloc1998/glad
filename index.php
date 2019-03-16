@@ -21,9 +21,18 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="stylesheet" type="text/css" media="screen" href="index.css">
-        <!--
+<!--
+        <link rel="stylesheet" media="mediatype and|not|only (expressions)" href="print.css">
+-->
+<!--
+        all     Used for all media type devices
+        print   Used for printers
+        screen  Used for computer screens, tablets, smart-phones etc.
+        speech  Used for screenreaders that "reads" the page out loud
+-->
+<!--
         <script src="index.js"></script>
-        -->
+-->
 
         <meta name="description" content="Glad website">
         <meta name="keywords" content="Windows,C,C++,Java,Android,HTML,CSS,XML,JavaScript,PHP,CTU,CIT,Kỹ thuật phần mềm">
