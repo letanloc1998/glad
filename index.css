@@ -25,8 +25,12 @@ h1 {
 div {
     width: 100vw;
     height: 100vh;
-    background-image: url('img/background.png');
-    background-size: 100vmin 100vmin;
-    background-repeat: no-repeat;
-    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div img {
+    size: 100vmin 100vmin;
+
 }
