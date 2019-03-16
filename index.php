@@ -38,14 +38,15 @@
         <meta name="twitter:card" content="summary">
         <meta property="og:type" content="website">
 
+        <!--
         <title id="pageTitle">Trang chủ</title>
+        -->
         <meta property="og:site_name" content="Glad website">
         <meta property="og:url" content="https://glad.azurewebsites.net/">
         <meta property="og:image" content="img/logo.ico">
         <!--
         <meta property="og:locale" content="vi_VN">
         -->
-        <meta name="description" content="Glad website">
 
         <!--Google adsense-->
         <!--
