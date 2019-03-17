@@ -1,4 +1,10 @@
 {
+    "app": {
+        "background": {
+        }
+    },
+    "manifest_version": 1,
+    "version": "version",
     "name": "Glad",
     "short_name": "Glad",
     "icons": [{
