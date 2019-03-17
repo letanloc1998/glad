@@ -1,8 +1,7 @@
 {
     "name": "Glad",
     "short_name": "Glad",
-    "icons": [
-        {
+    "icons": [{
             "src": "/img/favicon/android-chrome-36x36.png",
             "sizes": "36x36",
             "type": "image/png"
